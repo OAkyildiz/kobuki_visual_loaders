@@ -1,0 +1,13 @@
+# Rosinstaller for the Kobuki visual plugins
+- git:
+    local-name: kobuki_desctription
+    uri: 'https://github.com/OAkyildiz/kobuki_desctription'
+    version: indigo
+- git:
+    local-name: kobuki_visual_loaders
+    uri: 'https://github.com/OAkyildiz/kobuki_visual_loaders.git'
+    version: indigo
+- git:
+    local-name: kobuki_msgs
+    uri: 'https://github.com/yujinrobot/kobuki_msgs'
+    version: indigo
