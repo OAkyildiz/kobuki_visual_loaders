@@ -35,7 +35,7 @@
 		</cconfiguration>
 	</storageModule>
 	<storageModule moduleId="cdtBuildSystem" version="4.0.0">
-		<project id="kobuki_desktop.null.728411359" name="kobuki_desktop"/>
+		<project id="kobuki_visual_loaders.null.728411359" name="kobuki_visual_loaders"/>
 	</storageModule>
 	<storageModule moduleId="scannerConfiguration">
 		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>

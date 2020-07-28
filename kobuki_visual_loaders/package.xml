@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <package>
-  <name>kobuki_desktop</name>
+  <name>kobuki_visual_loaders</name>
   <version>0.5.7</version>
   <description>Visualisation and simulation tools for Kobuki</description>
   <author>Marcus Liebhardt</author>
   <maintainer email="marcus.liebhardt@yujinrobot.com">Marcus Liebhardt</maintainer>
   <license>BSD</license>
-  <url type="website">http://ros.org/wiki/kobuki_desktop</url>
-  <url type="repository">https://github.com/yujinrobot/kobuki_desktop</url>
-  <url type="bugtracker">https://github.com/yujinrobot/kobuki_desktop/issues</url>
+  <url type="website">http://ros.org/wiki/kobuki_visual_loaders</url>
+  <url type="repository">https://github.com/yujinrobot/kobuki_visual_loaders</url>
+  <url type="bugtracker">https://github.com/yujinrobot/kobuki_visual_loaders/issues</url>
 
   <buildtool_depend>catkin</buildtool_depend>
   <run_depend>kobuki_dashboard</run_depend>
